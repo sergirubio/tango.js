@@ -1,11 +1,17 @@
 Useful links
 ============
 
+TANGOJS:
+
+  https://tangojs.github.io/
+
 On JQPLot memory issues:
 
   http://rickluna.com/wp/2013/11/jqplot-memory-leak/
   
 On ServerSentEvents vs WebSocket
+
+  http://www.w3schools.com/html/html5_serversentevents.asp
 
   http://streamdata.io/blog/push-sse-vs-websockets/
 
@@ -20,3 +26,4 @@ On SSE + REST + AngularJS:
 SSE Tutorial:
 
   https://www.html5rocks.com/en/tutorials/eventsource/basics/
+
